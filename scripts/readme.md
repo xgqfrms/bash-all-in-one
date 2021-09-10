@@ -19,3 +19,12 @@ $ ./publish.sh
 $ ./deploy.sh
 
 ```
+
+
+## refs
+
+https://github.com/xgqfrms/23-design-patterns-app/tree/master/scripts
+
+https://github.com/xgqfrms/web-full-stack/tree/master/scripts
+
+

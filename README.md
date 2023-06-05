@@ -18,3 +18,8 @@ $ chmod 755 ./test.sh
 
 https://github.com/xgqfrms/linux
 
+
+## shell scripts
+
+
+https://github.com/xgqfrms/linux-shell-script-programming/

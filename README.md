@@ -23,3 +23,5 @@ https://github.com/xgqfrms/linux
 
 
 https://github.com/xgqfrms/linux-shell-script-programming/
+
+https://github.com/xgqfrms/xgqfrms.github.io/tree/master/Linux/bash
